@@ -1,0 +1,31 @@
+{
+  "name": "prettier-plugin-jsxattribute-sort",
+  "version": "1.0.0",
+  "description": "Plug and play prettier plugin to sort JSX Attributes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonesnxt/prettier-plugin-jsxattribute-sort.git"
+  },
+  "keywords": [
+    "prettier",
+    "plugin",
+    "jsx",
+    "attribute",
+    "sort",
+    "jsxattribute"
+  ],
+  "author": "jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonesnxt/prettier-plugin-jsxattribute-sort/issues"
+  },
+  "homepage": "https://github.com/jonesnxt/prettier-plugin-jsxattribute-sort#readme",
+  "dependencies": {
+    "prettier": "^2.7.1",
+    "subsecond": "^0.2.0"
+  }
+}
