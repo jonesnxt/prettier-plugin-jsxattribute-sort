@@ -1,6 +1,6 @@
 {
   "name": "prettier-plugin-jsxattribute-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plug and play prettier plugin to sort JSX Attributes",
   "main": "index.js",
   "scripts": {
